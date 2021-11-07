@@ -2,17 +2,17 @@
     "products": [
         {
           "id": 1,
-          "imgPath": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1631220221000"
+          "imgPath": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1631220221000",
           "title": "iPhone 13"
         },
         {
           "id": 2,
-          "imgPath": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp14-spacegray-select-202110?wid=1808&hei=1680&fmt=jpeg&qlt=80&.v=1632788573000"
+          "imgPath": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp14-spacegray-select-202110?wid=1808&hei=1680&fmt=jpeg&qlt=80&.v=1632788573000",
           "title": "MacBook Pro 14-inch"
         },
         {
           "id": 3,
-          "imgPath": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/imac-24-blue-cto-hero-202104?wid=1254&hei=1132&fmt=jpeg&qlt=80&.v=1617479508000"
+          "imgPath": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/imac-24-blue-cto-hero-202104?wid=1254&hei=1132&fmt=jpeg&qlt=80&.v=1617479508000",
           "title": "iMac 24-inch"
         }
     ]
