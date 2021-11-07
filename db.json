@@ -2,12 +2,12 @@
     "products": [
         {
           "id": 1,
-          "userId": 1
+          "userId": 1,
           "title": "Title 1"
         },
         {
           "id": 2,
-          "userId": 2
+          "userId": 2,
           "title": "Title 2"
         }
     ]
